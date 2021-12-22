@@ -1,0 +1,20 @@
+#playerTurn{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 252px;
+    height: 50px;
+}
+.espaco{
+    width: 80px;
+    height: 80px;
+    border: 2px solid #000;
+    float: left;
+    text-align: center;
+    padding-top: 15px;
+}
+.tabuleiro{
+    width: 252px;
+    margin: auto;
+
+}
